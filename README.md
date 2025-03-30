@@ -23,10 +23,15 @@ A simple software for swapping, staking, minting on MegaETH testnet.
 3. **RENAME** ```env``` **FILE TO** ```.env```
 
 
-4. Add your wallet address and private key in .env file.
+4. Add your wallet address and private key in ```.env``` file.
 
 
-5. Configure the software by adding/removing actions.
+5. Configure the software by adding/removing action, or leave the default configuration
+
+
+
+6. Start the ```main.py``` file
+```python main.py```
 
 
 ## Configuration
