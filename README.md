@@ -31,6 +31,9 @@ A simple software for swapping, staking, minting on MegaETH testnet.
 
 
 6. Start the ```main.py``` file
+
+
+   
 ```python main.py```
 
 
