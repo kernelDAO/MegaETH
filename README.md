@@ -1,7 +1,7 @@
 ![megaeth_soft](https://github.com/user-attachments/assets/728a8443-c278-43ec-a7d4-0b51874bb4e7)
 
 > [!WARNING]  
-> This is my first software using web3.py. I am not an experienced web3 developer. If you found a shit code or a bug, please open a pull request
+> This is my first software using web3.py. I am not an experienced web3 developer. If you found a shitty code or a bug, please open a pull request
 
 
 # MegaETH by kernelDAO
