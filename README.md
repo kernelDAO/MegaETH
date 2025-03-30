@@ -19,11 +19,14 @@ A simple software for swapping, staking, minting on MegaETH testnet.
 2. Install dependencies:
 ```pip install -r requirements.txt```
 
+3. > [!IMPORTANT]
+> DON'T FORGET TO **RENAME** ```env``` **FILE TO** ```.env```
 
-3. Add your wallet address and private key in .env file.
+
+4. Add your wallet address and private key in .env file.
 
 
-4. Configure the software by adding/removing actions.
+5. Configure the software by adding/removing actions.
 
 
 ## Configuration
