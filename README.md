@@ -19,7 +19,9 @@ A simple software for swapping, staking, minting on MegaETH testnet.
 2. Install dependencies:
 ```pip install -r requirements.txt```
 
-3. > [!IMPORTANT]
+
+3.
+> [!IMPORTANT]
 > DON'T FORGET TO **RENAME** ```env``` **FILE TO** ```.env```
 
 
