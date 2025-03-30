@@ -11,7 +11,7 @@ A simple software for swapping, staking, minting on MegaETH testnet.
 
 1. Clone the repository:
    
-```https://github.com/kernelDAO/MegaETH```
+```git clone https://github.com/kernelDAO/MegaETH```
 
 ```cd MegaETH```
 
