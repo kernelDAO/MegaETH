@@ -1,0 +1,4 @@
+RPC_URL = "https://carrot.megaeth.com/rpc"
+PRIVATE_KEY = "YOUR WALLET'S PRIVATE KEY"
+MY_WALLET = "YOUR WALLET ADDRESS"
+
